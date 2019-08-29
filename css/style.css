@@ -356,6 +356,7 @@ h1 {
 #contact .form-group input{
     background: none;
     border: none;
+    color:#fff;
     border-bottom: 1px solid #666;
     border-right: 1px solid #666;
 }
