@@ -64,7 +64,7 @@ body{
 }
 #particles-js{
     height: 100%;
-    background-image: url(../Images/bg-img.jpg);
+    background-image: url(../images/bg-img.jpg);
     background-attachment: fixed;
     background-size: cover;
 }
@@ -485,7 +485,7 @@ font-size:34px;
 }
 #particles-js {
     height: 100%;
-    background-image: url(../Images/bg-img2.jpg);
+    background-image: url(../images/bg-img2.jpg);
     background-attachment: fixed;
     background-size: cover;
     /* filter: brightness(0.1); */
