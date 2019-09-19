@@ -326,9 +326,6 @@ h1 {
     transition: opacity 200ms ease;
     border-radius: 0px;
 }
-#blog{
-    padding: 0px 0px;
-}
 #blog h1{
     color: #292b2c;
     font-weight: bold;
