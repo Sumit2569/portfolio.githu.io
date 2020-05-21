@@ -289,6 +289,17 @@ h1 {
     padding: 0px 0px 16px;
     font-weight: bold;
 }
+#services h3{
+    color: #292B2C;
+    font-size: 40px;
+    margin: 0px 0px 8px;
+    padding: 0px 0px 16px;
+    font-weight: bold;
+}
+#blog h2{
+    font-size: 40px;
+    font-weight: bold;
+}
 .col-md-4 img{
     width: 109%;
 }
@@ -471,9 +482,15 @@ font-size:34px;
     /* color: #292B2C; */
     font-size: 21px;
 }
+#services h3{
+    font-size: 21px;
+}
 #blog h1 {
  font-size: 20px;
 }
+    #blog h2{
+     font-size: 21px;
+    }
 .card-body .card-title{
     font-size: 17px;
     font-weight: bold;
