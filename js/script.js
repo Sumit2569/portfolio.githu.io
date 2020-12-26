@@ -3,7 +3,11 @@ var type = new Typed('#typed',{
     typeSpeed:100,
     
 });
-
+$(document).ready(function () {
+    var clock = $('.clock').FlipClock({
+        clockFace: 'TwelveHourClock'
+    });
+});
 // NAVBAR FUNCTION START
 $(window).scroll(function(){
     $('nav').toggleClass('scrolled',$(this).scrollTop() > 360);
