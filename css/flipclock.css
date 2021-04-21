@@ -51,7 +51,7 @@ bottom: 0;
   font-size: 36px !important; 
 }
 
-.flip-clock-meridium a { color: #313333; }
+.flip-clock-meridium a {color:#fff;}
 
 .flip-clock-wrapper {
   text-align: center;
@@ -199,7 +199,7 @@ bottom: 0;
 
 .flip-clock-dot {
   display: block;
-  background: #323434;
+  background: #fff;
   width: 10px;
   height: 10px;
   position: absolute;
