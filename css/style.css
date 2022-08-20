@@ -24,7 +24,7 @@ body {
     background-color: transparent !important;
 }
 .bg-dark.scrolled {
-    background: #000 !important;
+    bbackground: #0f1628 !important;
     margin-top: 0;
 }
 .navbar-brand img {
@@ -330,7 +330,7 @@ h1 {
     width: 100%;
 }
 #contact {
-    background: #333;
+    background: #0f1628 !important; 
     padding: 70px;
 }
 #contact h1 {
@@ -374,7 +374,7 @@ textarea.form-control {
 #copy {
     color: #fff;
     font-size: 16px;
-    background: #111;
+    background: #0f1628 !important;
     padding: 32px 0 16px;
 }
 #copy h2 {
